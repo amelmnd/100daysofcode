@@ -18,8 +18,11 @@ My rules
 **🚀 Started challenge**
 </br>
 
-### R1D0
+### R1D00
 Initialize repository and read me  
 Choose the resources I want use to work  
 Create a plan for my challenge  
 
+### R1D01
+pseudocode  
+start again slowly  
